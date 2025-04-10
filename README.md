@@ -1,5 +1,3 @@
-# Sparse-Rag
-
 # Multi-Source Document Ingestion and Retrieval System
 
 ![Document Processing Pipeline](https://via.placeholder.com/800x400?text=Document+Processing+Pipeline)
